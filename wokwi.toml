@@ -1,0 +1,5 @@
+
+[wokwi]
+version = 1
+firmware = "build/project-name.bin"
+elf = "build/project-name.elf"
